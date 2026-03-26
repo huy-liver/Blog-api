@@ -1,4 +1,4 @@
-# RESTful Blog API (Không dùng MongoDB)
+# RESTful Blog API 
 
 Dự án xây dựng RESTful Blog API sử dụng Node.js, Express, và lưu trữ dữ liệu hoàn toàn bằng file JSON thay vì MongoDB theo yêu cầu của đề tài.
 
