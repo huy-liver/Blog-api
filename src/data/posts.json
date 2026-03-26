@@ -1,0 +1,15 @@
+[
+  {
+    "id": "e52c42b5-5ab9-4110-a080-bd3f01708c26",
+    "title": "Tiêu đề bài viết đã sửa",
+    "content": "Nội dung bài viết khá thú vị",
+    "tags": [
+      "Node",
+      "Express"
+    ],
+    "author": "42dfd8f1-5f82-42ec-90bd-0000809fa9c6",
+    "imageUrl": "/public/uploads/image-1774517343909.webp",
+    "createdAt": "2026-03-26T09:29:03.912Z",
+    "updatedAt": "2026-03-26T09:36:31.924Z"
+  }
+]

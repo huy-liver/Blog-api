@@ -1,0 +1,31 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "RESTful Blog API with Authentication & Authorization (JSON Storage)",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "blog",
+    "api",
+    "express",
+    "nodejs",
+    "json-storage"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "joi": "^18.1.1",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.10.1",
+    "multer": "^2.1.1",
+    "nodemon": "^3.1.14",
+    "uuid": "^13.0.0"
+  }
+}
